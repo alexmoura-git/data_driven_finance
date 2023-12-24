@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: title_page
+chapters:
+  - file: copyright_page
+  - file: dedication_page
+  - file: preface
+  - file: about_this_book
+  - file: acknowledgments
+  - file: table_of_contents
+  - file: foreword
+  - file: introduction
+  - file: chapter_1
+  - file: chapter_2
+  - file: chapter_3
+  - file: chapter_4
+  - file: chapter_5
+  - file: chapter_6
+  - file: chapter_7
+  - file: chapter_8
+  - file: glossary
+  - file: appendices
+  - file: references
+  - file: index
+  - file: about_the_author
+  - file: endnotes
+
